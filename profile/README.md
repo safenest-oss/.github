@@ -16,7 +16,7 @@ We build focused tools that do one thing well: browser extensions, blocklists, g
 
 | Project | Description |
 |---|---|
-| [no-shorts](https://github.com/safenest/no-shorts) | Chrome extension that removes YouTube Shorts |
+| [no-shorts](https://github.com/safenest-oss/no-shorts) | Chrome extension that removes YouTube Shorts |
 
 More coming soon.
 
