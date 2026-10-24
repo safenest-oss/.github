@@ -1,0 +1,23 @@
+name: Feature or project idea
+description: Suggest an improvement or a new SafeNest tool
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+    validations:
+      required: true
+  - type: dropdown
+    id: age
+    attributes:
+      label: Which age group is it for?
+      multiple: true
+      options:
+        - 5-9
+        - 10-13
+        - 14-18
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
