@@ -1,6 +1,6 @@
-# SafeNest
+# SafeNest OSS
 
-Small, open source tools that make the Internet safer for children aged 5-18.
+Small, open source tools that make the internet safer for children and parents. Built with ages 5-18 in mind
 
 We build focused tools that do one thing well: browser extensions, blocklists, guides for parents and more. Every project follows the same principles.
 
