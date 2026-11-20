@@ -1,27 +1,28 @@
 # SafeNest OSS
 
-Small, open source tools that make the internet safer for children and parents. Built with ages 5-18 in mind
+Small, open source tools that make the internet safer for children (ages 5-18) and parents.
 
-We build focused tools that do one thing well: browser extensions, blocklists, guides for parents and more. Every project follows the same principles.
+**Website:** [safenest-oss.org](https://safenest-oss.org) · **Dla rodziców (po polsku):** [safenest-oss.org/pl](https://safenest-oss.org/pl/)
+
+## Tools
+
+| Tool | What it does |
+| --- | --- |
+| [**No Shorts**](https://github.com/safenest-oss/no-shorts) | A Chrome extension that hides YouTube Shorts. [Get it in the Chrome Web Store](https://chromewebstore.google.com/detail/no-shorts/mdfcjmongbnjhgmaigbeohlkekepkohp). |
+
+More tools will come from real needs of families and schools.
 
 ## Principles
 
-1. **Privacy first.** No tracking, no telemetry, no accounts, no data leaving the device.
-2. **Small and auditable.** Parents should be able to read and understand what a tool does.
-3. **Age-aware.** Protection should fit the child: strict for the youngest, lighter and more respectful for teenagers.
-4. **Free and open.** MIT licensed, no ads, no paid tiers hiding basic safety.
-5. **Honest about limits.** No tool replaces talking with your child. We document what each tool can and cannot do.
+- **Transparency:** open code (MIT), public plans and decisions. Claims about research come with a source and a note on what they do not prove.
+- **Community first:** parents, teachers and developers shape the tools.
+- **Safety and education:** we teach, we do not scare.
+- **Security by design:** no data collection, minimum permissions, no tracking.
 
-## Projects
+## Join in
 
-| Project | Description |
-|---|---|
-| [no-shorts](https://github.com/safenest-oss/no-shorts) | Chrome extension that removes YouTube Shorts |
+- Share an idea or a problem in an [issue](https://github.com/safenest-oss/no-shorts/issues) or in [Discussions](https://github.com/safenest-oss/no-shorts/discussions).
+- Test a tool with your family and tell us what happened.
+- Send a pull request. See [CONTRIBUTING](https://github.com/safenest-oss/no-shorts/blob/main/CONTRIBUTING.md).
 
-More coming soon.
-
-## Get involved
-
-- Report a problem or suggest a tool by opening an issue in the relevant repository
-- Read [CONTRIBUTING](../CONTRIBUTING.md) to start contributing
-- Help translate documentation, especially guides for parents
+_SafeNest OSS is an independent open source initiative and is not affiliated with other products named SafeNest._
